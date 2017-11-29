@@ -9,6 +9,9 @@
 !/*.vcxproj.filters
 !/*.sln
 !/_ClearTempFiles.bat
+!/README.md
+!/LICENSE.md
+!/CONTRIBUTING.md
 ## !/*.suo  Descartado pq cambia cada vez que se abre el proyecto y es bastante pesado.
 
 ## Ignora carpetas temporales de compilacion de Visual Studio 2010.
