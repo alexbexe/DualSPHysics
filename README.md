@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="http://dual.sphysics.org/"><img src="http://dual.sphysics.org/2ndusersworkshop/logo.png" alt="DualSPHysics" width="300"></a>
+  <a href="http://dual.sphysics.org/"><img src="http://design.sphysics.org/img/logo_dualsphysics.png" alt="DualSPHysics" width="300"></a>
   <br>
   DualSPHysics
   <br>
@@ -10,7 +10,7 @@
 <h4 align="center">A combined <a href="https://developer.nvidia.com/cuda-zone" target="_blank">CUDA</a> and <a href="http://www.openmp.org/" target="_blank">OpenMP</a> implementation of the Smoothed Particle Hydrodynamics method based on the advanced <a href="https://wiki.manchester.ac.uk/sphysics/index.php/Main_Page" target="_blank">SPHysics</a> code.</h4>
 
 <p align="center">
-<img src="https://media.giphy.com/media/l2RnsM698hqdHAhQQ/giphy.gif" alt="DualSPHysics" width="700">
+<img src="http://design.sphysics.org/img/dualsphysics_demonstration.gif" alt="DualSPHysics" width="400">
 </p>
 
 # Instructions for regular users
